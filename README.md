@@ -26,9 +26,9 @@ The Face Mask Detection API is the high-accuracy solution for medical masks dete
 The algorithm finds people in the image and gives their coordinates in an image to draw bounding boxes around them. Also the algorithm provides information about each detected person with the probability of them wearing or not wearing a protective mask.
 
 <div align="center">
-<img width="400" src="https://storage.googleapis.com/api4ai-static/rapidapi/masks_detection_2.jpg"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="400" src="https://storage.googleapis.com/api4ai-static/rapidapi/masks_detection_3.jpg"/>
+<img width="350" src="https://storage.googleapis.com/api4ai-static/visuals/masks_detection_2.jpg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="350" src="https://storage.googleapis.com/api4ai-static/visuals/masks_detection_3.jpg"/>
 </div>
 
 
