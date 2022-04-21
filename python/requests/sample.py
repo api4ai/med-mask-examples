@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """Example of using API4AI masks detection."""
 
 import os
