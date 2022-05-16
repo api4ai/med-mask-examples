@@ -37,23 +37,23 @@ The algorithm finds people in the image and gives their coordinates in an image 
 This project run to help API users with ready-to-use examples in a set of the most popular languages and technologies:
 
 * `python`:
-  * [requests](./python/requests/README.md)
-  * [aiohttp](./python/aiohttp/README.md)
+  * [requests](./python/requests)
+  * [aiohttp](./python/aiohttp)
 * `bash`:
-  * [curl](./bash/curl/README.md)
+  * [curl](./bash/curl)
 * `C#`:
-  * [RestSharp](./csharp/restsharp/README.md)
+  * [RestSharp](./csharp/restsharp)
 * `NodeJS`:
-  * [Axios](./nodejs/axios/README.md)
+  * [Axios](./nodejs/axios)
 
 Coming soon:
 
 * `PHP`:
-  * [cURL](./php/curl/README.md)
+  * [cURL](./php/curl)
 * `Javascript`:
-  * [fetch](./js/fetch/README.md)
-  * [Axios](./js/axios/README.md)
-  * [jQuery](./js/jquery/README.md)
+  * [fetch](./js/fetch)
+  * [Axios](./js/axios)
+  * [jQuery](./js/jquery)
 
 
 ## 🔗 Links
